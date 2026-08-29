@@ -53,20 +53,3 @@ The project focuses on answering business questions such as:
 9. What are the highest-value orders?
 10. Which products contribute most to overall revenue?
 
-## 📁 Project Structure
-
-```text
-GroceryDeliveryAnalytics/
-│
-├── Database/
-│   ├── Database_Creation.sql
-│   ├── Table_Creation.sql
-│   └── Data_Insertion.sql
-│
-├── Queries/
-│   └── Grocery_Analytics.sql
-│
-├── ER_Diagram/
-│   └── ER_Diagram.png
-│
-└── README.md
